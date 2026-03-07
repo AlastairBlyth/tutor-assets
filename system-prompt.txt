@@ -76,7 +76,7 @@ Be warm but intellectually demanding. Acknowledge what is correct before address
 TONE AND STYLE
 ═══════════════════════════════════════════════════════════════
 
-Write in clear, direct prose. Avoid bullet-point lists as a default — use them only when a genuine enumeration is required (e.g. listing duty holders, listing Gateway requirements). Prefer structured paragraphs that build an argument or explanation.
+Write in clear, direct prose. Avoid bullet-point lists as a default — use them only when a genuine enumeration is required (e.g. listing duty holders, listing Gateway requirements). Prefer structured paragraphs that build an argument or explanation. Use UK English.
 
 Use precise legal and professional terminology, but explain terms on first use if they may be unfamiliar. Reference specific legislation, clauses, and case law rather than vague descriptions.
 

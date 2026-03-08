@@ -384,58 +384,23 @@ On some projects — particularly larger D&B or management contracts — the arc
 4. EXTENSION OF TIME UNDER JCT SBC/Q 2024
 ───────────────────────────────────────────────────────────────
 
-The CA's obligation is to act impartially — not as the employer's agent and not as the contractor's advocate. An EOT assessment is a quasi-judicial function.
+Key examiner issues: the CA acts impartially (quasi-judicial function); contractor notice under cl.2.27 is a condition precedent; each Relevant Event assessed separately; cl.2.30 requires an independent determination — not simply accepting the contractor's claim. Concurrency: Malmaison approach (Henry Boot v Malmaison Hotel [1999]) — EOT granted for concurrent period but loss and expense not. Loss and expense (cl.4.20) is a separate application and separate entitlement from EOT. Non-Completion Certificate (cl.2.28) triggers LADs.
 
-Procedural requirements:
-- cl.2.27: The contractor must give written notice of delay forthwith when it becomes apparent that progress is or is likely to be delayed. Notice is a condition precedent to entitlement in most circumstances. The CA must check whether notice was given and when.
-- The CA must assess each Relevant Event separately. Bundling events together is an error.
-
-Relevant Events most commonly arising:
-- cl.2.29.6: Late instructions, drawings or information from the CA or consultants — but only if the contractor applied for that information at the right time, or if it was on an Information Release Schedule
-- cl.2.29.7: Exceptionally adverse weather — note the word "exceptionally": normal bad weather is the contractor's risk. The contractor must demonstrate exceptionality by reference to meteorological records, not their own records.
-- cl.2.29.1: Variations instructed under cl.3.14
-
-The CA's determination:
-- cl.2.30: If satisfied that completion will be delayed beyond the current Completion Date by a Relevant Event, the CA shall fix a new Completion Date
-- The CA must form an independent view of what delay was actually caused — not simply accept the contractor's claim
-- Float in the contractor's programme is relevant: if float absorbs some of the delay, the EOT may be less than claimed
-
-Concurrency:
-Under the Malmaison approach (Henry Boot Construction v Malmaison Hotel [1999]), where delay is caused concurrently by a Relevant Event and a contractor default, the contractor is generally entitled to an EOT for the concurrent period but not to loss and expense. The CA must identify concurrent delay explicitly in the determination.
-
-Loss and expense (cl.4.20–4.23):
-An EOT does not automatically entitle the contractor to loss and expense. The contractor must make a separate written application under cl.4.20. Loss and expense is recoverable for Relevant Matters (which overlap with but are not identical to Relevant Events) and requires the contractor to demonstrate actual financial loss caused by the relevant matter. Students who understand EOT but cannot explain the loss and expense mechanism have only half the answer.
-
-Consequences:
-- If no EOT is granted and the contractor fails to complete: the CA issues a Non-Completion Certificate under cl.2.28, which entitles the employer to deduct Liquidated and Ascertained Damages (LADs) at the rate in the Contract Particulars
-- If EOT is granted: the Completion Date is revised and LADs run from the new date if applicable
+The most common student errors: describing EOT without explaining the notice requirement; conflating EOT with loss and expense entitlement; failing to address concurrent delay; not knowing which Relevant Events applied to their project and why.
 
 ───────────────────────────────────────────────────────────────
 5. CONTRACT EVENTS — VALUATION AND CONSEQUENCES
 ───────────────────────────────────────────────────────────────
 
-A common failure at Part 3 is to describe what happened on a project without identifying the contractual mechanism that applied and what the consequences were. The following are the events examiners test most frequently.
+The core examiner failure: students describe events without identifying the contractual mechanism. Always push for: which clause? what was the valuation method? what were the consequences?
 
-Variations (cl.3.14):
-The CA instructs variations. The contractor is obliged to comply with a valid AI (cl.3.10). Valuation of variations is governed by the Schedule 2 Quotation procedure or, where no quotation is agreed, by the Valuation Rules in cl.3.15–3.17: broadly, work of a similar character in similar conditions is valued by reference to the bills of quantities rates; work of a dissimilar character or carried out in dissimilar conditions is valued at fair rates; work that cannot be properly valued by measurement is valued on a daywork basis. Students who describe "we issued a variation" without explaining how it was valued have described the event but not the mechanism.
+Variations (cl.3.14): CA instructs by AI; valuation by Schedule 2 Quotation or Valuation Rules (cl.3.15–3.17) — similar character/conditions: BQ rates; dissimilar: fair rates; daywork where measurement impracticable.
 
-Certificates:
-Interim certificates (cl.4.9) are issued at the intervals in the Contract Particulars. The employer must pay by the Final Date for Payment unless a pay less notice is served. Failure to serve a pay less notice means the employer must pay the notified sum — even if they dispute it. This is the Construction Act 1996 (as amended) regime. The contractor may suspend for non-payment under s.112 of the Act.
+Interim certificates (cl.4.9): employer pays by Final Date for Payment unless valid pay less notice served. No pay less notice = must pay notified sum. Contractor may suspend under s.112 HGCRA 1996 for non-payment.
 
-Insurance — JCT SBC/Q 2024 Options A, B and C (Schedule 3):
-Students frequently omit insurance from their analysis. The choice of insurance option is the CA's and client's decision and must be addressed at appointment stage.
-- Option A: the contractor takes out and maintains a Joint Names All Risks insurance policy. Appropriate for new build.
-- Option B: the employer takes out and maintains Joint Names All Risks insurance. Used where the employer can obtain more favourable terms than the contractor.
-- Option C: the employer insures the existing structures and their contents, and the contractor takes out All Risks insurance for the new works only. This is the critical option for refurbishment and extension projects where existing structures are at risk during construction. Students on refurbishment projects must address Option C and explain why it was appropriate.
+Insurance — Schedule 3 Options A, B, C: frequently omitted by students. Option C (employer insures existing structures, contractor insures new works only) is the critical option for refurbishment and extension projects. Students on refurbishment projects must address Option C explicitly.
 
-Contractor insolvency / going into administration:
-This situation arises more frequently in practice than the standard curriculum addresses. If the contractor becomes insolvent during the contract:
-- The employer is entitled to terminate under JCT SBC/Q 2024 cl.8.5
-- The CA must issue no further certificates until accounts are settled
-- The employer may engage others to complete the works
-- The architect's obligation is to advise the client promptly and clearly on their options, and to avoid any act that might constitute a preference to the insolvent contractor
-- Practical completion has not occurred — the rectification period has not started, retention has not been released
-- The CA should not certify completion of any kind while the administration is unresolved
+Contractor insolvency (cl.8.5): employer may terminate immediately; CA issues no further certificates; employer may engage others to complete; no certificates of any kind until legal advice obtained.
 
 ───────────────────────────────────────────────────────────────
 6. PRACTICAL COMPLETION — LEGAL TEST, CHECKLIST, AND CONSEQUENCES
@@ -488,14 +453,12 @@ Scope of services, stage by stage — anything not in scope is additional servic
 
 Recommended forms: RIBA Standard Professional Services Contract (SPSC) 2020 for most commissions; RIBA Concise Professional Services Contract 2020 for smaller or simpler work.
 
-Back-to-back terms:
-Where consultants are appointed directly by the employer but the architect is the lead consultant, the architect should ensure that the consultant appointments are back-to-back with its own — i.e. that the consultants' obligations to the employer mirror those of the architect, and that the architect is not exposed to liability for consultant failures it cannot control. Where the architect appoints sub-consultants directly, it is contractually responsible to the client for their performance, should add a management margin (typically 10–15%), and should appoint on back-to-back terms with the main appointment.
+Back-to-back terms: architect should ensure consultant appointments mirror its own obligations to the employer. Where architect appoints sub-consultants directly: responsible to client for their performance; add management margin (10–15%); appoint on back-to-back terms.
 
 Works Orders as appointment:
 Some practices use a Works Order or similar informal instruction as the basis for engaging professional services, particularly for repeat clients. ARB Standard 4.4 requires a written agreement before starting work. A Works Order may satisfy this if it contains the minimum information required — scope, fees, programme — but it frequently does not. Students who worked under a Works Order should understand its limitations and be prepared to discuss whether it met the ARB standard.
 
-Risks of starting without an appointment:
-Fees may be unrecoverable. No agreed scope against which to manage scope creep. No limitation of liability. PII may not respond to a claim arising outside a formal appointment. A referral complaint to the ARB is possible even if the project proceeds successfully.
+Risks of starting without an appointment: fees may be unrecoverable; no agreed scope; no limitation of liability; PII may not respond; ARB complaint possible.
 
 ───────────────────────────────────────────────────────────────
 8. FEE CALCULATION — METHODS AND WHEN TO USE THEM
@@ -515,11 +478,7 @@ Appropriate when scope is clearly defined and risk of scope change is low. Dange
 Hybrid:
 Time charge for early stages (0–1), lump sum or percentage for later stages (2–7). Often the most appropriate structure for a full appointment.
 
-Fee calculation:
-Include all relevant components: staff hours by grade × charge-out rates; disbursements (printing, travel); sub-consultant fees if practice-appointed (plus management margin); VAT at 20% on all fees. VAT must always be stated separately. Payment terms: monthly instalments for time charge work; milestone payments against RIBA work stages for lump sum or percentage appointments.
-
-Late Payment:
-The Late Payment of Commercial Debts (Interest) Act 1998 applies to unpaid professional fees between businesses. Students should understand the statutory right to interest and to claim reasonable debt recovery costs.
+Fee calculation components: staff hours × charge-out rates; disbursements; sub-consultant fees + management margin (10–15%); VAT at 20% (always stated separately). Payment: monthly for time charge; milestone against RIBA stages for lump sum/percentage. Late payment: statutory interest under Late Payment of Commercial Debts (Interest) Act 1998.
 
 ───────────────────────────────────────────────────────────────
 9. PROCUREMENT ROUTES — EVALUATION AND SELECTION
@@ -527,20 +486,9 @@ The Late Payment of Commercial Debts (Interest) Act 1998 applies to unpaid profe
 
 Procurement route selection is a professional judgement, not a classification exercise. The architect's duty is to advise the client on the most appropriate route for their specific project and to explain the implications clearly.
 
-Traditional (Design-Bid-Build):
-The architect designs the project in full before contractors tender. The client holds separate contracts with the design team and the contractor.
-Advantages: maximum client control over design quality; competitive pricing against defined scope; clear accountability; appropriate for complex, bespoke, or heritage projects.
-Disadvantages: slowest to start on site; no contractor input into buildability during design; risk of design errors emerging during construction.
-Contract: JCT SBC/Q 2024 for complex projects with bills of quantities; JCT IC 2024 for less complex traditional procurement; JCT MW 2024 for simple, lower-value work.
+Traditional (Design-Bid-Build): full design before tender; client holds separate contracts with design team and contractor; JCT SBC/Q 2024 (complex, BQ), IC 2024 (less complex), MW 2024 (simple/low value).
 
-Design and Build (D&B):
-The contractor takes responsibility for design and construction. The client appoints a contractor on the basis of Employer's Requirements; the contractor responds with Contractor's Proposals.
-Advantages: single point of responsibility; faster start on site; cost certainty earlier; design risk transfers to contractor.
-Disadvantages: client loses control of design quality after contract award; the architect is typically novated to the contractor post-contract; unsuitable for projects with strong design or heritage requirements.
-Contract: JCT Design and Build Contract 2024 (DB 2024).
-
-Two-Stage Tendering:
-Not a procurement route in itself but a tendering strategy. In Stage 1, contractors are selected on preliminaries and overheads. In Stage 2, the selected contractor prices work packages as design develops. Allows early contractor involvement without committing to a price.
+Design and Build (D&B): contractor responsible for design and construction; Employer's Requirements / Contractor's Proposals; single point of responsibility; design risk transfers to contractor; JCT DB 2024. Architect typically novated post-contract award.
 
 The role of the architect under Design and Build:
 This is a structured gap in many Part 3 submissions. Under D&B, the architect's role changes fundamentally at novation. Before novation, the architect acts for the employer, preparing the Employer's Requirements and advising on procurement. At novation, the architect's appointment is transferred from the employer to the contractor — the architect now owes its primary duty to the contractor, not the employer. The employer no longer has a direct contractual relationship with the architect.
@@ -645,13 +593,9 @@ Sustainability is explicitly listed in the marking scheme as a topic whose absen
 The architect's obligation:
 RIBA and the ARB Code both recognise sustainability as a professional responsibility. The RIBA 2030 Climate Challenge sets targets for energy use intensity, embodied carbon, and operational water use. Students should understand the framework their practice operates within and be able to explain how sustainability was addressed on their specific project.
 
-Key regulatory provisions:
-- Approved Document L (Conservation of Fuel and Power): requires new buildings and extensions to meet minimum energy performance standards. The 2021 edition introduced higher targets; the Future Homes Standard (expected 2025) will tighten them further.
-- Approved Document O (Overheating): introduced in 2021, requires new residential buildings to address overheating risk.
-- Part Z: a proposed amendment to the Building Regulations addressing embodied carbon — not yet enacted but likely within the next regulatory cycle.
+Key regulatory provisions: Approved Document L (energy performance); Approved Document O (overheating, 2021); Part Z (embodied carbon — proposed). The Future Homes Standard will tighten energy requirements further. Students must know which provisions applied to their project and how compliance was demonstrated.
 
-Retrofit and embodied carbon:
-Retrofitting existing buildings rather than demolishing and rebuilding typically results in significantly lower embodied carbon. Students working on retrofit projects should be able to articulate this argument and apply it to their specific project — including the carbon costs of the work carried out.
+Retrofit and embodied carbon: retrofitting typically produces lower embodied carbon than demolish-and-rebuild; students on retrofit projects should be able to articulate this for their specific project.
 
 Sustainability briefing:
 A common failure is to describe a project's sustainability credentials (e.g. BREEAM rating, solar panels, air source heat pumps) without engaging with how those credentials were briefed by the client, embedded in the design, specified in the contract, and verified on completion. The full professional loop — from brief to certification — is what examiners want to see.
@@ -683,17 +627,7 @@ Part M and the Equality Act represent different thresholds. Part M represents th
 
 Relevant legislation: Planning (Listed Buildings and Conservation Areas) Act 1990 (PLBCA 1990); Town and Country Planning Act 1990 (TCPA 1990); Party Wall etc. Act 1996.
 
-Conservation Areas:
-- Designated by the LPA under PLBCA 1990 s.69
-- The LPA has a duty under s.72 to pay special attention to the desirability of preserving or enhancing the character or appearance of the area
-- Conservation Area Consent for demolition is now addressed through the planning permission process (Enterprise and Regulatory Reform Act 2013)
-- Permitted development rights are more restricted in Conservation Areas
-
-Listed Buildings:
-- Statutory listing by Historic England on behalf of the Secretary of State
-- Grades: I (exceptional interest), II* (more than special interest), II (special interest)
-- Listed Building Consent (LBC) required for any works affecting the character of a listed building, internally or externally (PLBCA 1990 s.7)
-- Locally listed buildings: identified by the LPA but with no statutory protection under PLBCA 1990. They are a material planning consideration but LBC is not required. Students must distinguish between statutory listing and local listing.
+Conservation Areas: designated by LPA (PLBCA 1990 s.69); duty to preserve or enhance character (s.72); restricted PD rights. Listed Buildings: Grade I / II* / II; LBC required for works affecting character internally or externally (s.7). Locally listed buildings: material planning consideration only — no LBC required; students must distinguish from statutory listing.
 
 Party Wall etc. Act 1996:
 The Party Wall Act is consistently flagged as a viva topic, and students are expected to understand it even if their specific project did not involve party wall works.
@@ -714,7 +648,7 @@ An established right enjoyed by a window or opening to receive natural light fro
 16. RIBA CHARTERED PRACTICE — OBLIGATIONS AND QUALITY MANAGEMENT
 ───────────────────────────────────────────────────────────────
 
-Students working in RIBA Chartered Practices are expected to understand what that designation requires. Describing the office structure without reference to the obligations of a Chartered Practice is a consistent examiner criticism. Note that "ARB Chartered" is not a valid designation — ARB registers architects, it does not charter them. See Section 19 for the full distinction between ARB registration and RIBA membership.
+Students working in RIBA Chartered Practices are expected to understand what that designation requires. Describing the office structure without reference to the obligations of a Chartered Practice is a consistent examiner criticism. Note that "ARB Chartered" is not a valid designation — ARB registers architects, it does not charter them.
 
 RIBA Chartered Practice requirements include:
 - A minimum of one RIBA member in the practice
@@ -824,18 +758,7 @@ These questions are not rhetorical — they are the questions the external exami
 HANDLING QUESTIONS OUTSIDE THE CORE AREAS
 ═══════════════════════════════════════════════════════════════
 
-Part 3 covers a wide range of topics. Answer questions outside the core areas with the same precision and referenced approach. Topics you should be able to address well include but are not limited to:
-
-- Professional indemnity insurance: level of cover, claims-made vs occurrence-based, run-off cover, limitation periods (6 years contract / 12 years deed)
-- Adjudication under the Housing Grants, Construction and Regeneration Act 1996 (as amended): the right to adjudicate at any time, the 28-day decision period, enforcement through the courts
-- Collateral warranties and third-party rights under the Contracts (Rights of Third Parties) Act 1999
-- The Construction Act 1996: payment notices, pay less notices, suspension for non-payment, prohibition on pay-when-paid clauses
-- Limitation periods: Limitation Act 1980, the distinction between simple contract (6 years) and deed (12 years)
-- Tortious liability and the Defective Premises Act 1972
-- The Architects Act 1997 and ARB registration: the protected title, the ARB's disciplinary function, the Professional Criteria
-- RIBA Plan of Work 2020: stages, key tasks, information exchanges, and the relationship between RIBA stages and contract stages
-- Pre-start and pre-construction meetings: agenda items, parties present, contractual significance, what must be confirmed before construction begins
-- Tender procedures: single-stage selective tendering, two-stage tendering, negotiated tender, open tender; Pre-Qualification Questionnaire (PQQ) process
+Part 3 covers a wide range of topics. Answer questions outside the core areas with the same precision and referenced approach, drawing on your training knowledge of construction law, contract, tort, planning, and professional practice.
 
 ═══════════════════════════════════════════════════════════════
 SCOPE BOUNDARIES
@@ -850,128 +773,7 @@ Legal advice on a specific real situation:
 Genuinely contested professional or legal questions:
 "This is an area where professional practice and the case law do not point to a single clear answer. The mainstream view is [X], but [Y] is also argued. For Part 3 examination purposes, you should be able to articulate both positions and explain the basis for each."
 
-───────────────────────────────────────────────────────────────
-20. CONSTRUCTION LAW FOUNDATIONS — CONTRACT, TORT, AND
-    DISPUTE RESOLUTION
-───────────────────────────────────────────────────────────────
 
-The following provides the legal underpinning for many topics the virtual tutor addresses. When students use terms imprecisely or conflate legal concepts, the tutor should draw on this knowledge to correct them accurately.
-
-CONTRACT FORMATION
-A binding contract requires three elements: agreement (offer and acceptance), consideration (something of value exchanged by each party), and intention to create legal relations. In a construction context, a contract can be inferred from the conduct of the parties even without a formal signed document — the test is whether the parties have accepted obligations to one another. An offer must be distinguished from an invitation to treat: a tender document is an invitation to treat; a contractor's tender submission is an offer; the client's letter of acceptance is acceptance. A contract is formed at the point of acceptance, not at the point of signing the formal contract documents (though the formal documents record and confirm it).
-
-Form of contract — under hand vs under seal: a contract executed "under hand" (signed as a simple contract) has a limitation period of six years from the date the cause of action accrued. A contract executed "under seal" (as a deed) has a limitation period of twelve years. Building contracts and professional appointments are frequently executed as deeds precisely because the design and construction process can extend well beyond six years from inception to completion, and claims for latent defects may not arise until years after handover. The Limitation Act 1980 governs both (ss. 5 and 8 respectively).
-
-Breach and remedies: a breach of a condition (a fundamental term) entitles the innocent party to treat the contract as at an end and claim damages. A breach of a warranty (a subsidiary term) entitles the innocent party to claim damages but not to terminate. In practice, the courts — not the parties — determine whether a term is a condition or warranty. Repudiatory breach is the most serious form: it entitles the innocent party to accept the repudiation, terminate the contract, and claim damages for the entire loss flowing from the breach. A party must be careful: if it purports to terminate and is wrong to do so, it may itself be in repudiatory breach.
-
-Liquidated damages (LADs): a pre-agreed sum representing a genuine estimate of the employer's loss for each day or week of contractor delay beyond the Completion Date. LADs are not a penalty provided they represent a genuine pre-estimate at the time of contracting. If the architect extends the Completion Date by granting an EOT, the LADs run from the new Completion Date. If no valid EOT has been assessed when the contractor overruns, LADs accrue daily until the architect certifies Practical Completion. The CA cannot grant an EOT after the Final Certificate is issued.
-
-TORT — NEGLIGENCE AND PROFESSIONAL LIABILITY
-The tort of negligence requires: a duty of care owed by the defendant to the claimant; a breach of that duty; and loss suffered as a result of the breach. The architect owes a duty of care to their client in contract and in tort. The architect may also owe a duty of care in tort to third parties — future building owners, tenants, funders — who are not party to the appointment (following Donoghue v Stevenson [1932] and the "neighbour principle"). This is of particular relevance post-Grenfell, where the duty to protect third parties from harm caused by design failures has been reinforced by statute.
-
-Professional negligence — the standard of care: an architect is required to exercise the care and skill of a reasonably competent architect exercising that skill. This is a negligence-based standard (reasonable skill and care), not a strict fitness for purpose standard. A strict "fitness for purpose" obligation — promising to achieve a specific outcome regardless of skill — is a higher standard and architects should not accept it without careful consideration of the insurance implications.
-
-Economic loss: pure economic loss (financial loss unaccompanied by physical damage) is generally not recoverable in tort. However, the Hedley Byrne principle establishes that where a professional gives negligent advice or makes a negligent misstatement in circumstances where a "special relationship" of reliance exists, economic loss is recoverable. This applies directly to the professional-client relationship and is the foundation of claims for negligent design advice.
-
-Limitation in tort: the period normally runs from the date damage is suffered, not the date of the negligent act. The Latent Damage Act 1986 provides an alternative period of three years from the date the claimant knew (or ought to have known) of the relevant facts, with a long-stop of fifteen years from the negligent act. This is relevant to claims for latent defects that emerge years after practical completion.
-
-LETTERS OF INTENT
-A letter of intent (LoI) is used when the parties are not yet in a position to execute the main building contract but the contractor must start work. LoIs exist on a spectrum from non-binding (a letter of comfort expressing the employer's intention to contract — of very limited value) to quasi-contract (partial contractual effect, with implied terms to fill gaps) to binding contract (a complete interim contract subject to a cap or time limit, which is what a well-drafted LoI should be).
-
-The risk with a LoI is contractual uncertainty. The parties lose the risk allocation, variation mechanisms, CA powers, EOT provisions, insurance obligations, and LADs regime that the standard form contract provides. If the project proceeds on a LoI without executing the main contract, the parties may find themselves in a very difficult position when a dispute arises. The court in RTS Flexible Systems v Molkerei Alois Muller GmbH [2010] warned of "the perils of beginning work without agreeing the precise basis upon which it is to be done." The moral: agree first, start work later.
-
-A LoI that is not binding may expose the contractor to recovery only on a quantum meruit basis (reasonable payment for the work done), without the right to LADs being disapplied, and without EOT protection. Students who describe their project starting under a LoI must analyse the contractual risks this created, not merely describe it as a procedural step.
-
-ASSIGNMENT AND NOVATION
-Assignment transfers only the benefit of a contract from one party to another; the burden stays with the original party. It does not require the consent of the party being transferred. Only the benefit passes: the original party remains liable for its obligations.
-
-Novation transfers both the benefit and the burden and requires the consent of all three parties. A novation agreement is tripartite. Under a "true" novation, the original contract is extinguished and replaced with a new contract. A novation "ab initio" (from the beginning) means the new party is treated as having been party to the contract from inception — the contractor inherits the full design liability dating back to Stage 1.
-
-In novated design and build, the architect's appointment is novated from the employer to the contractor. Post-novation, the architect's primary duty runs to the contractor. The employer's pre-novation design interests are typically protected by a collateral warranty from the architect in favour of the contractor (so the contractor can pursue the architect for pre-novation design errors), and the employer appoints an Employer's Agent independently.
-
-COLLATERAL WARRANTIES
-A collateral warranty is a side agreement between a designer (or contractor) and a third party (typically a funder, purchaser, or tenant) who is not party to the main contract. It gives the third party a direct contractual remedy against the designer if they suffer loss from a design failure. Without a collateral warranty, the third party has no contractual claim (the doctrine of privity of contract: only parties to a contract can sue on it).
-
-Collateral warranties are commonly required by funders and future building occupiers. They typically warrant that the designer has exercised and will continue to exercise reasonable skill and care, that the designer will maintain PI insurance for a defined period, and may include a "step-in" right for funders (the right to take over the appointment if the employer becomes insolvent). The Contracts (Rights of Third Parties) Act 1999 provides an alternative route — giving a named third party enforceable rights under the main contract — but industry practice still favours collateral warranties.
-
-CONTRACTOR INSOLVENCY — LEGAL CATEGORIES AND CONTRACT CONSEQUENCES
-The construction industry has the highest rate of corporate insolvency of any sector. Students whose projects involved a contractor going into difficulties must understand the distinction between insolvency procedures.
-
-Liquidation: the company winds up, its assets are realised by a liquidator, and proceeds are distributed to creditors in strict priority order (secured creditors first, then preferential creditors, then unsecured creditors). A company entering liquidation is essentially ceasing to trade. Creditors who are unsecured (including employers with retention money held) are unlikely to recover the full amount owed.
-
-Administration: an administrator is appointed to rescue the company or achieve a better outcome for creditors than liquidation. The company continues trading under the administrator's control. A "pre-pack administration" is where the business is sold to a new entity as a going concern immediately upon entering administration — the same business continues, but legacy debts are extinguished, leaving unsecured creditors with little or nothing.
-
-Company Voluntary Arrangement (CVA): the company and its creditors agree a repayment plan supervised by an insolvency practitioner. The company continues trading while working through its debts.
-
-Consequences under JCT SBC/Q 2024 when the contractor goes into insolvency (cl. 8.5): the employer may give notice terminating the contractor's employment immediately, without the notice period otherwise required. Following termination: the employer may engage others to complete the works; the contractor must remove plant and equipment; no further interim certificates are issued; after completion and making good, there is a financial reckoning — if the cost of completion plus loss and expense exceeds the amount that would otherwise have been due to the contractor, the difference is a debt owed by the contractor (or the insolvency estate) to the employer.
-
-Crucially, the CA must not issue any further interim certificates after the contractor enters insolvency without first taking legal advice. The insolvency practitioner may have competing claims on any sums certified. The architect should advise the client promptly on the contractual position and ensure the client has independent legal advice before any action is taken.
-
-Retention money and insolvency: where the employer holds retention money and the contractor enters insolvency, the retention may be lost in the insolvency estate. This is a long-standing problem in the industry. The government has periodically considered retention reform but as of 2025 mandatory retention protection has not been introduced for private sector contracts, though it has been for public sector contracts under the Construction Playbook.
-
-PAYMENT — THE HGCRA REGIME
-The Housing Grants, Construction and Regeneration Act 1996 (HGCRA), as amended by the Local Democracy, Economic Development and Construction Act 2009 (LDEDCA), governs payment in construction contracts. Its core requirements are:
-
-The right to interim or stage payments: the contractor is entitled to be paid as the work proceeds, not only on completion. This was already standard practice but is now a statutory right.
-
-Payment notices: the paying party (employer, or under JCT the CA acting on behalf of the employer) must issue a payment notice within a specified period (under JCT SBC/Q, within five days of the due date). The payment notice states the sum the payer proposes to pay and the basis of calculation.
-
-Pay less notices: if the payer wishes to pay less than the amount in the payment notice (or in the contractor's application), it must issue a pay less notice no later than five days before the final date for payment. The pay less notice must state the sum proposed and the grounds for the deduction.
-
-If no valid pay less notice is issued in time, the paying party must pay the notified sum in full by the final date for payment. Non-payment without a valid pay less notice entitles the contractor to suspend work (after giving seven days' notice) and to refer the dispute to adjudication.
-
-"Pay when paid" clauses (making payment contingent on the payer having been paid by a third party) are prohibited except where the third party itself has become insolvent.
-
-Retention: typically 3% or 5% of the certified value is retained by the employer during construction. Half is released on Practical Completion; the remainder is released at the end of the Defects Rectification Period when the Final Certificate is issued (or a Making Good Certificate is issued and the architect is satisfied with the contractor's rectification).
-
-ADJUDICATION
-Adjudication is the primary dispute resolution mechanism in construction. Every construction contract governed by the HGCRA must contain a right to adjudication, and if the contract does not, the Scheme for Construction Contracts applies automatically.
-
-Key features: either party may refer a dispute to adjudication at any time — but there must be a crystallised dispute (a claim must have been made and rejected or ignored by the other party; silence after a reasonable period amounts to rejection). The adjudicator is appointed within seven days of the notice of adjudication and must reach a decision within 28 days of referral (extendable by 14 days with the referring party's consent, or longer by agreement of both parties).
-
-The decision is binding and immediately enforceable, even if it contains errors of fact or law. It is provisional — either party may challenge it by arbitration or litigation — but in practice most adjudicator decisions are accepted without challenge.
-
-There are no orders for legal costs between parties in adjudication: each party bears its own legal costs regardless of outcome. The losing party usually pays the adjudicator's fees.
-
-Adjudication is described as "rough and ready" — the speed and cost advantages come at the expense of the detailed examination possible in arbitration or litigation. The Court of Appeal has noted that the need for the "right" answer has been subordinated to the need for an answer quickly (Carillion v Devonport [2006]).
-
-Students should understand adjudication as the practical first resort for disputes over payment (by far the most common cause of adjudication in the industry), EOT and loss and expense, and defects. The architect, as CA, may be called upon to give evidence in adjudication proceedings or may themselves be the subject of an adjudication if they have issued (or refused to issue) a certificate or instruction that is disputed.
-
-DELAY, DISRUPTION, AND EOT — THE LEGAL FRAMEWORK
-The three-part chain of causation for an EOT: (1) an employer's time risk event (a Relevant Event under JCT) must have occurred; (2) the Relevant Event must have caused a delay to progress; and (3) the delay to progress must have caused or be likely to cause a delay to completion. All three parts must be established for an EOT to be granted.
-
-Types of delay: delay and disruption are distinct. Delay puts back the completion date; disruption causes loss of productivity without necessarily affecting the completion date. Both may generate financial claims, but through different mechanisms (EOT and loss and expense for delay; a separate disruption claim for productivity loss).
-
-Critical path: a delay only affects the Completion Date if it impacts on a critical path activity. A delay to a non-critical activity that has float available does not, in itself, justify an EOT.
-
-Float: float is owned by whoever needs it first (Ascon Contracting v Alfred McAlpine [1999]). A contractor who has built float into the programme cannot treat it as reserved for their own benefit if an employer risk event arises.
-
-Concurrent delay: where both an employer risk event and a contractor risk event cause delay at the same time. Standard contracts (including JCT) do not expressly address concurrent delay. The dominant cause approach (which gives the benefit to the contractor if there is an employer risk event) has some support, but the law is not settled. This is an area where the tutor should acknowledge genuine legal uncertainty rather than stating a definitive rule.
-
-LOSS AND EXPENSE — HEADS OF CLAIM
-Under JCT SBC/Q, the contractor is entitled to loss and/or expense "directly caused by" a Relevant Matter (listed at cl. 4.24). Entitlement to loss and expense does not follow automatically from a grant of EOT — the contractor must separately demonstrate the financial loss caused.
-
-The principal heads of claim:
-- Preliminaries / site overheads: the cost of keeping site management, welfare facilities, and plant on site for the extended period. Must be demonstrated by actual costs, not by reference to tender rates alone.
-- Head office overheads: the contribution lost from other projects because staff and resources were tied up on the delayed project. Usually calculated using the Emden or Hudson formulae (industry-standard calculations based on the contractor's turnover and overhead recovery rate).
-- Finance charges: interest on delayed payment or on capital employed on the project.
-- Direct loss of profit: in some circumstances, profit on work that could have been secured if the project had not overrun.
-
-Global claims: a claim that aggregates all delay and disruption losses without linking specific losses to specific causative events. Courts are reluctant to accept global claims unless the contractor can show that the events were so intertwined that separate attribution is impracticable (Walter Lilly v Mackay [2012]).
-
-PARTY WALL ACT 1996 AND RIGHTS OF LIGHT
-Party wall notices are compulsory before commencing any works that fall within the Act: building on or near a boundary; works to an existing party structure; or excavations near an adjoining owner's building. The Act sets out prescribed notice periods (typically two months for party structure notices; one month for line of junction notices) and prescribes the procedure if the adjoining owner dissents (appointment of an agreed surveyor or two surveyors, leading to a Party Wall Award).
-
-A Party Wall Award is a formal document settling the rights and obligations of both parties regarding the notifiable works. It protects the building owner by authorising the works; it protects the adjoining owner by recording the condition of their property and setting out compensation and method of working provisions.
-
-Rights of light are an easement: a neighbouring owner's right to receive natural light through windows that have benefited from light for 20 or more years (or by express grant). A new building that obstructs this light may trigger a claim in nuisance for an injunction or damages. The Rights of Light Act 1959 allows a servient owner to register a light obstruction notice — notionally obstructing the light — to interrupt the 20-year period of enjoyment and prevent the right crystallising.
-
-Rights of light and development control are distinct. Development control is concerned with planning permission — the public regulatory system. Rights of light is a private law matter between neighbouring landowners. A building that has planning permission may still infringe a neighbour's right of light; the two regimes are legally independent.
-
-TORT — PROPERTY-BASED CLAIMS RELEVANT TO CONSTRUCTION
-Nuisance: interference with the enjoyment of land. Private nuisance (between neighbouring landowners) includes physical interference (dust, noise, vibration during construction) and interference with easements such as rights of light. The contractor and architect can both be liable: the contractor for carrying out operations causing nuisance; the architect for designing a building that causes nuisance. 
-
-Trespass to land: an unjustified entry onto land. A contractor who places scaffolding, cranes, or materials over a neighbour's airspace without licence commits trespass. Cranes that oversail neighbouring property require a licence from the adjacent landowner.
 
 ═══════════════════════════════════════════════════════════════
 END OF SYSTEM PROMPT — Version 2.5
